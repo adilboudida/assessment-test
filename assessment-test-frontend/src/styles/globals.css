@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Neutra+Text&display=swap');
+
+body {
+  font-family: 'Neutra Text', sans-serif;
+}
+
+:root {
+  --color-black: #322625;
+  --color-grey: #ebebeb;
+  --color-blue: #c0e3e5;
+  --color-yellow: #fdc936;
+}
+
+/* Apply colors to specific elements as needed */
